@@ -7,6 +7,11 @@
     "oil.nvim": {
       "rev": "b73018b75affd13fa38e2fc94ef753b465f770d7",
       "src": "https://github.com/stevearc/oil.nvim.git"
+    },
+    "opencode.nvim": {
+      "rev": "84eabfbe65a44f452ee302fe360cea9fd9939f31",
+      "src": "https://github.com/nickjvandyke/opencode.nvim",
+      "version": ">=0.0.0"
     }
   }
 }
